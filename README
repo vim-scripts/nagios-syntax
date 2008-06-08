@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2261
+
+Nagios <http://www.nagios.org/&gt; template object configuration file.
+
+Initially based on gentoo source http://dev.gentoo.org/~ramereth/vim/syntax/nagios.vim
+http://bugs.gentoo.org/show_bug.cgi?id=76712
+which instead based on http://katanalynx.dyndns.org/~ajar/code :)
+
+Current URL:
+http://cvs.pld-linux.org/cgi-bin/cvsweb.cgi/packages/vim-syntax-nagios/nagios.vim
